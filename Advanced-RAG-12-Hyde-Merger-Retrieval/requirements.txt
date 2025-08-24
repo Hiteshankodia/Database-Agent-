@@ -1,0 +1,6 @@
+langchain_google_genai
+ipykernel
+langchain_community
+python_dotenv
+bs4
+langchain_chroma
