@@ -1,0 +1,6 @@
+ipykernel
+sentence_transformers
+#Library that have all transformer based model bert etc. Will not have gpt. 
+langchain_openai 
+scikit-learn
+rank_bm25
