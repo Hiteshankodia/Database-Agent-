@@ -1,0 +1,10 @@
+ipykernel
+python-dotenv
+langchain 
+tiktoken 
+PyPDF2
+faiss-cpu 
+langchain_community
+langchain_chroma
+google_generativeai
+langchain_google_genai
