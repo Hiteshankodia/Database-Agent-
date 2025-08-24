@@ -1,0 +1,5 @@
+llama_index
+llama_index_embeddings_huggingface
+llama_index_vector_stores_qdrant
+llama_index_llms_gemini
+llama_index_google_generativeai
